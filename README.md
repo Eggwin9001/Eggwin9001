@@ -1,5 +1,5 @@
 ## Hi there 👋
-## im currently working on a game
+# im currently working on a game
 <!--
 **Eggwin9001/Eggwin9001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
